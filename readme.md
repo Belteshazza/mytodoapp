@@ -57,7 +57,7 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
-## what the todo app about
+## what the todo app is all about
 
 This is a todo app created with laravel. With this app a user can create a todos, update a todos,delete todos and also mark a todo as completed after completing a todo.
 
